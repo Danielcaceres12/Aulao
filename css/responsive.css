@@ -25,11 +25,8 @@
     }
 }
 
-@media (min-height: 531px){
-    .container-menu{
-        display: none;
-    }
-}
+
+
 @media (max-width: 1000px){
     .container{
         padding: 0px 20px;
